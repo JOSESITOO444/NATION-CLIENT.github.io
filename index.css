@@ -17,7 +17,7 @@ body {
     animation: QW 10s ease 0s infinite normal forwards;
     color: white;
     border-radius: 17px;
-    background: linear-gradient(-45deg, #ffa63d, #ff3d77, #338aff, #3cf0c5);
+    background: linear-gradient(-45deg, #209E22, #047D06, #00BC03, #00EA04);
     background-size: 600%;
     -webkit-animation: anime 6s linear infinite;
             animation: anime 6s linear infinite;
