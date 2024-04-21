@@ -100,16 +100,3 @@ a {
 body {
   background: #ffffff;
 }
-
-.monster {
-	background-color:black;
-  width: 100px;
-  height: 100px;
-  margin: 2% auto;
-  background: url('https://abs.twimg.com/a/1468458211/img/animations/web_heart_animation.png') left center;
-  animation: play .8s steps(28) infinite;
-}
-
-@keyframes play {
-	100% { background-position: right; }
-}
