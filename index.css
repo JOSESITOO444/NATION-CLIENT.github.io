@@ -108,3 +108,9 @@ a {
 @keyframes play {
 	100% { background-position: right; }
 }
+h1{
+	color:white;
+}
+h2{
+	color:white;
+}
