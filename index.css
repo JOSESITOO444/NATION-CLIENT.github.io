@@ -7,35 +7,46 @@ body {
 	color:white;
     
 }
-
-#QW {
-    font: bold 90% monospace;
-    background: linear-gradient(0deg, #831100 0%, #5c0701 100%);
-    padding: 20px 20px;
-    text-align: center;
-    font-size: 30px;
-    margi: 0;
-    animation: QW 10s ease 0s infinite normal forwards;
-    color: white;
-    border-radius: 10px;
-    background: linear-gradient(-45deg, #A213E7, #0654E0, #1AC763, #E6009E);
-    background-size: 600%;
-    -webkit-animation: anime 6s linear infinite;
-            animation: anime 6s linear infinite;
+ a {
+  text-decoration: none;
+  color: white;
+   
+}
+.site-header { 
+  border-bottom: 3px solid #FFF;
+  adding: 1px 1px;
+  dsplay: flex;
+  justify-content:center;
+  font-size:15px;
+  background-image: url('https://media4.giphy.com/media/Fbox1ygIqnga5dLinz/giphy.gif?cid=6c09b9523nxpqjam2yzzqn68uij3urdujxl7aoxxtfwjqa6i&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g');
+    background-size:cover;
+  margin-top:-23.5px;
 }
 
-#QW {
-    outline: 3px solid white;
-    transition: outline 3s ease 2s;
+.FR h2 {
+  argin: .6em 0;
+  displa: inline-block;
+  font-family: "Jersey 15", sans-serif;
+  font-size:35px;
+  
 }
 
-#QW:hover {
-    outline: 4px solid white;  
+
+.site-navigation ul, 
+.site-navigation li {
+  margin: 0; 
+  padding: 0;
 }
 
-.text-center {
-    text-align: center;
+.site-navigation li {
+  display: inline-block;
+  margin: 0.1em 1em 0.7em 1em;
 }
+
+  <head>
+    <title>DARK-CLIENT</title>
+    <link rel="stylesheet" href="index.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
 
 p {
     font: bold 90% monospace;
@@ -116,6 +127,7 @@ h1{
 }
 h2{
 	color:white;
+  font-size:17px;
 }
 .cuatro{
 	font-size:21px;
@@ -158,6 +170,9 @@ h1 {
   100%{ background-position:0% 82%; }
 }
 h1.material-icons{
-  font-size: 40px;
+  font-size:35px;
 }
-
+hr{
+color:white;
+  background:white;
+}
