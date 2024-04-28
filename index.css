@@ -1,0 +1,217 @@
+html{
+background:black;
+ background-image:('https://i.ibb.co/xCpfJ8W/Unknown.jpg');
+background-size:cover;
+}
+body {
+  
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font: bold 90% monospace;
+	color:white;
+    
+}
+ a {
+  text-decoration: none;
+  color: white;
+   
+}
+.site-header { 
+  border-bottom: 3px solid #FFF;
+  adding: 1px 1px;
+  dsplay: flex;
+  justify-content:center;
+  font-size:15px;
+  background-image: url('https://media0.giphy.com/media/WrmMDD4BpYSEjzQpJS/giphy.gif?cid=6c09b9525qd095zzxfb0lamhrrrq09u0nq3e3qmgoqyyz0mn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g');
+    background-size:cover;
+  margin-top:-23.5px;
+}
+
+.FR h2 {
+  argin: .6em 0;
+  displa: inline-block;
+  font-family: "Jersey 15", sans-serif;
+  font-size:35px;
+  
+}
+
+
+.site-navigation ul, 
+.site-navigation li {
+  margin: 0; 
+  padding: 0;
+}
+
+.site-navigation li {
+  display: inline-block;
+  margin: 0.1em 1em 0.7em 1em;
+}
+
+  <head>
+    <title>DARK-CLIENT</title>
+    <link rel="stylesheet" href="index.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+p {
+    font: bold 90% monospace;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+a {
+    text-align: center;
+}
+
+.XDD {
+    background: gray;
+    width: 50px;
+    height: 150px;
+    box-shadow: 0 0 7px 1px #474747, 0 0 7px 1px #474747, 0 0 7px 1px #474747, 0 0 7px 1px #474747;
+    background: linear-gradient(-45deg, #ffa63d, #ff3d77, #338aff, #3cf0c5);
+    background-size: 600%;
+    -webkit-animation: anime 6s linear infinite;
+            animation: anime 6s linear infinite;
+}
+
+@-webkit-keyframes anime {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.POPO {
+    text-align: center;
+    font: bold 90% monospace;
+    width: 250px;
+    height: 50px;
+    font-size: 12px;
+}
+
+.XG {
+    font-size: 18px;
+}
+
+.XDD {
+    text-align: center;
+    height: 40px;
+    width: 110px;
+    font-size: 21px;
+    width: 120px;
+	color:white;
+	font:bold 18px monospace;
+}
+
+.XDD:hover {
+    width: 110px;
+}
+
+.POPO {
+    border-radius: 5px;
+}
+.monster {
+  width: 100px;
+  height: 100px;
+  margin: 2% auto;
+  background: url('https://abs.twimg.com/a/1468458211/img/animations/web_heart_animation.png') left center;
+  animation: play .8s steps(28) infinite;
+}
+
+@keyframes play {
+	100% { background-position: right; }
+}
+h1{
+	color:white;
+}
+h2{
+	color:white;
+  font-size:17px;
+}
+.cuatro{
+	font-size:21px;
+}
+h1 {
+  font-family: Roboto;
+  background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+  background-size: 2000% 2000%;
+  color: transparent;
+  animation-fill-mode: forwards;
+  -webkit-background-clip: text;
+  -webkit-animation: rgb 30s ease infinite;
+  -z-animation: rgb 30s ease infinite;
+  -o-animation: rgb 30s ease infinite;
+    animation: rgb 30s ease infinite;
+}
+
+/* Text color animation */
+@-webkit-keyframes rgb {
+  0% { background-position: 0% 82% }
+  50% { background-position: 100% 19% }
+  100% { background-position: 0% 82% }
+}
+
+@-moz-keyframes rgb {
+  0%{ background-position:0% 82% }
+  50%{ background-position:100% 19% }
+  100%{ background-position:0% 82% }
+}
+
+@-o-keyframes rgb {
+  0%{ background-position:0% 82% }
+  50%{ background-position:100% 19% }
+  100%{ background-position:0% 82% }
+} 
+
+@keyframes rgb {
+  0%{ background-position:0% 82%; }
+  50%{ background-position:100% 19%; }
+  100%{ background-position:0% 82%; }
+}
+h1.material-icons{
+  font-size:35px;
+}
+hr{
+color:white;
+  background:white;
+}
+  #CG{
+    font-size:30px;
+    font-family: "Jersey 15", sans-serif;
+  }
+  
+.ho a{
+  font-size:30px;
+  font-family: "Jersey 15", sans-serif;
+  color:#31E01A;
+}
+ 
+.gt a {
+  font-size:30px;
+  font-family: "Jersey 15", sans-serif;
+  color:#DFEF0F;
+  white-space:nowrap;
+}
+.er{
+background-image('https://media4.giphy.com/media/l2JJn4lN54ZcMSICciphy.gif?cid=6c09b952r91ugbv7c7omohnbibsqv9pftjg6fj0kg20cti4q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g');
+  background-size:cover;
+}
+#CG{
+  padding:20px 20px;
+  background-image: url('https://media4.giphy.com/media/l2JJn4lN54ZcMSICc/giphy.gif?cid=6c09b952r91ugbv7c7omohnbibsqv9pftjg6fj0kg20cti4q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g');
+  border:solid white;
+  border-radius:5px;
+}
+.iop{
+  background-color:red;
+}
+.opp{
+  margin-top:110x;
+}
