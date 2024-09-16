@@ -1,50 +1,70 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-  <meta name="viewport" 
-content="width=device-width" />
-  <title>OVER NATION OFFICIAL</title>
-  <link rel="stylesheet" href="style.css" />
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap" rel="stylesheet">
-</head>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap')
-</style>
-<body>
+body {
+background-image: url('img/20240915231032.png');
+background-size:cover;
+text-transform:uppercase;
+font-family: "Teko", sans-serif;
+background-attachment:fixed;
+background-position:center;
+background-repeat:repeat;
+height:100vh;
+}
+.UNO {
+ padding:30px;
+ background-image: url('img/20240915223400.png');
+ background-size:cover;
+ border-radius:10px;
+ color: white;
+ text-align: center;
+ font-size: 70px;
+ fon-family: "Bebas Neue", sans-serif;
+ font-family: "Jersey 15", sans-serif;
+ position:relative;
+ margin:-20px;
+margin-bottom:40px;
+border-bottom:3px solid white;
+}
 
-<h1 class="UNO">ARCADEX</h1>
-<h1 class="DOS">¿ QUE ES LENGUAJE C ?</h1>
-<p class="TRES">C es un lenguaje de programación de bajo nivel y propósito general creado en los 70 por Dennis Ritchie. Es eficiente, permite control directo del hardware y es ampliamente usado en sistemas operativos y software crítico.</p>
-<a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0430.gif" border="0" alt="linea-imagen-animada-0430" /></a>
+.TRES {
+color:white;
+text-align:center;
+font-size:20px;
+}
 
-<h1 class="CUATRO">FUNCION DE DE LENGUAJE C</h1>
-<p class="CINCO">Su propósito principal es proporcionar una herramienta eficiente y flexible para el desarrollo de software de sistemas y aplicaciones.</p>
-<a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0430.gif" border="0" alt="linea-imagen-animada-0430" /></a>
+.DOS {
+color:white;
+text-align:center;
+}
 
-<h1 class="SIETE">CARACTERISTICAS DE C</h1>
-<ol class="SEIS">
-<li>Eficiencia: Ofrece un control preciso sobre recursos del sistema y memoria.</li><br>
-<li>Portabilidad: Los programas en C pueden ejecutarse en diferentes plataformas con pocos cambios.</li>
-<br>
-<li>Sintaxis simple: Su sintaxis es clara y directa, facilitando la escritura y comprensión del código.</li>
-<br>
-<li>Tipado estático: Los tipos de datos se definen en tiempo de compilación, lo que ayuda a detectar errores.</li>
-<br>
-<li>Lenguaje de bajo nivel: Permite manipular directamente la memoria y hardware.</li>
-<br>
-<li>Funciones y modularidad: Soporta la creación de funciones y la división del código en módulos, promoviendo la reutilización del código.</li>
-<br>
-<li>Operadores y control de flujo: Proporciona una amplia gama de operadores y estructuras de control, como bucles y condicionales.</li>
-</ol>
-<a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0430.gif" border="0" alt="linea-imagen-animada-0430" /></a>
-<br>
+.CINCO {
+color:white;
+text-align:center;
+font-size:20px;
+margin-top:30px;
+}
 
-<h1 class="OCHO">TAREAS DE LENGUAJE C</h1>
-</body>
-</html>
+.CUATRO {
+color:white;
+text-align:center;
+margin-top:50px;
+}
+
+.SIETE {
+color:white;
+text-align:center;
+font-size:33px;
+margin-top:30px;
+}
+
+.SEIS {
+color:white;
+text-align:center;
+font-size:20px;
+}
+
+
+.OCHO {
+color:white;
+text-align:center;
+font-size:33px;
+margin-top:30px;
+}
